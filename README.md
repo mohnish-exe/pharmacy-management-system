@@ -194,20 +194,7 @@ pharmacy-management-system/
 
 ---
 
-## Contributors  
-
-| Name | Role |
-|------|------|
-| [Your Name Here] | Developer |
-| [Teammate Name] | Database & GUI Design |
-| [Teammate Name] | Documentation & Testing |
-
----
 
 ## License  
 
 This project is released under the MIT License — you are free to use, modify, and distribute it with proper credit.
-
----
-
-"Building efficient pharmacy solutions through automation and simplicity."
